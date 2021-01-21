@@ -7,7 +7,7 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Aislanio/Form-de-login-cadastro?style=for-the-badge)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/24a38faf-19de-4ae4-bbef-7abf15010a1d/deploy-status)](https://app.netlify.com/sites/fervent-wiles-3945e4/deploys)
 # Formulario de login e cadastro
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="https://github.com/Aislanio/img/blob/master/Captura%20de%20Tela%20(186).png" alt="exemplo imagem">
 <p align="center">Fiz esse projeto para testa a personalizaçao da validaçao do formulario</p>
 
 <p align="center">
