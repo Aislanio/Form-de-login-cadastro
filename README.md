@@ -3,11 +3,11 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Aislanio/Form-de-login-cafastro?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Aislanio/Form-de-login-cafastro?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Aislanio/Form-de-login-cafastro?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Aislanio/Form-de-login-cafastro?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Aislanio/Form-de-login-cafastro?style=for-the-badge)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/24a38faf-19de-4ae4-bbef-7abf15010a1d/deploy-status)](https://app.netlify.com/sites/fervent-wiles-3945e4/deploys)
 <img src="exemplo-image.png" alt="exemplo imagem">
 <p align="center">Fiz esse projeto para testa a personalizaçao da validaçao do formulario</p>
