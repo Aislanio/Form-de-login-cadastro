@@ -1,8 +1,5 @@
 
 
-
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/Aislanio/Form-de-login-cadastro?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Aislanio/Form-de-login-cadastro?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Aislanio/Form-de-login-cadastro?style=for-the-badge)
@@ -17,8 +14,9 @@
  <a href="#objetivo">Objetivo</a> •
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
- <a href"#features"> Features</a>
+ <a href="#autor">Autor</a> • 
+ <a href"#features"> Features</a> • 
+ <a href="#status">Status</a>
 </p>
 
 
