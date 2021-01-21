@@ -29,7 +29,6 @@
  
  
 ### Features
----
 - [x] interface
 - [x] Validaçao customizada
 
