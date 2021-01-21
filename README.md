@@ -18,10 +18,13 @@
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
+ <a href"#features"> Features</a>
 </p>
+
+
 ### Status
 ---
-<h4 align="center"> 
+<h4> 
  Concluído 🚀  com sucesso
 </h4
  
