@@ -11,7 +11,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/24a38faf-19de-4ae4-bbef-7abf15010a1d/deploy-status)](https://app.netlify.com/sites/fervent-wiles-3945e4/deploys)
 <img src="exemplo-image.png" alt="exemplo imagem">
 <p align="center">Fiz esse projeto para testa a personalizaçao da validaçao do formulario</p>
-<img src="https://img.shields.io/static/v1?label=JS&message=Formulario&color=7159c1&style=for-the-badge&logo=ghost"/>
+
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#roadmap">Roadmap</a> • 
