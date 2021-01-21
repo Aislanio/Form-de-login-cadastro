@@ -16,7 +16,7 @@
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#Tecnologias">Tecnologias</a> • 
  <a href="#contribuicao">Contribuição</a> • 
  <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
@@ -29,7 +29,8 @@
 - [x] interface
 - [x] Validaçao customizada
 
-
+### Objetivo
+<p>Melhora o css e também testar como modificar a validaçao de formulario</p>
 
 ### 🛠 Tecnologias
 
