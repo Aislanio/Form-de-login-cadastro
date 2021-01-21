@@ -30,9 +30,12 @@
 - [x] Validaçao customizada
 
 ### Objetivo
+---
+
 <p>Melhora o css e também testar como modificar a validaçao de formulario</p>
 
 ### 🛠 Tecnologias
+---
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
