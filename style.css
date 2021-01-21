@@ -17,7 +17,20 @@ body {
     rgba(0, 116, 255, 1) 100%
   );
 }
-
+article{
+  display: none;
+  position: fixed;
+  background: white;
+  width: 30%;
+  height: 30%;
+  z-index: 12;
+  top: 1px;
+  left: 30px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column
+}
 .men {
   width: 35%;
   height: 90%;
