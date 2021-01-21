@@ -21,23 +21,23 @@
  <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
----
+
 <h4 align="center"> 
  Concluído 🚀  com sucesso
 </h4
 ### Features
-
+---
 - [x] interface
 - [x] Validaçao customizada
----
+
 
 ### Objetivo
-
+---
 
 <p>Melhora o css e também testar como modificar a validaçao de formulario</p>
----
-### 🛠 Tecnologias
 
+### 🛠 Tecnologias
+---
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
