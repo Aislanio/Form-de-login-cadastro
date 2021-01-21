@@ -19,7 +19,8 @@
  <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
-
+### Status
+---
 <h4 align="center"> 
  Concluído 🚀  com sucesso
 </h4
@@ -30,7 +31,7 @@
 - [x] interface
 - [x] Validaçao customizada
 
-### Objetivos
+### Objetivo
 ---
 <p>Melhora o css e também testar como modificar a validaçao de formulario</p>
 
