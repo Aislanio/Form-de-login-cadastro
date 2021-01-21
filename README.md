@@ -44,7 +44,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Autor
 ---
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://github.com/Aislanio">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/69637616?s=460&amp;v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Aislânio Amorim</b></sub></a>
