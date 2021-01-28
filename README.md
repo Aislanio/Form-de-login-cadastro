@@ -6,49 +6,31 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Aislanio/Form-de-login-cadastro?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Aislanio/Form-de-login-cadastro?style=for-the-badge)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/24a38faf-19de-4ae4-bbef-7abf15010a1d/deploy-status)](https://app.netlify.com/sites/fervent-wiles-3945e4/deploys)
-# Formulario de login e cadastro
-<img src="https://github.com/Aislanio/img/blob/master/Captura%20de%20Tela%20(186).png" alt="exemplo imagem">
-<p align="center">Fiz esse projeto para testa a personalizaçao da validaçao do formulario</p>
+# Formulario de Login e Cadastro
 
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a> • 
- <a href"#features"> Features</a> • 
- <a href="#status">Status</a>
-</p>
+<img src="exemplo-image.png" alt="exemplo imagem">
 
+> Login e Cadastro
 
-### Status
----
-<h4> 
- Concluído 🚀  com sucesso
-</h4
- 
- 
- 
-### Features
-- [x] interface
-- [x] Validaçao customizada
+### Ajustes e melhorias
+
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+
+- [x] Estrutura html
+- [x] estilizar o html com css
+- [x] Mudar a mensagem de erro do formulario com JavaScript 
+- [x] Fazer o formulario de login
+- [ ] Fazer o forumulario de Cadastro
+- [ ] Fazer o Back end do login e cadastro 
 
 
+## 💻 Pré-requisitos
 
-### Objetivo
----
-<p>Melhora o css e também testar como modificar a validaçao de formulario</p>
-
-
-
-### 🛠 Tecnologias
----
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [Html]
-- [Css]
-- [JavaScript]
-
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
+* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
+* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
+* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
 
 
 ### Autor
