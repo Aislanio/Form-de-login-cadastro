@@ -31,8 +31,21 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
 * Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
 * Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
-
-
+## Modificando o alert do formulario com JavaScript
+ Para modificar o alert se usa o seguinte script 
+ ```
+ document.querySelector('form input').oninvalid = function() {  
+    // remove mensagens de erro padrão
+    document.querySelector("article").style.display = "flex"
+    // faz a validação novamente
+    if (!this.validity.valid) {
+        // se estiver inválido, coloca a mensagem
+        this.setCustomValidity("Fill this field");
+        
+    }
+ };
+ ```
+ Agora e so você usar sua criatividade
 ### Autor
 ---
 
