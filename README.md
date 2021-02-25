@@ -34,16 +34,15 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 ## Modificando o alert do formulario com JavaScript
  Para modificar o alert se usa o seguinte script 
  ```
- document.querySelector('form input').oninvalid = function() {  
-    // remove mensagens de erro padrão
-    document.querySelector("article").style.display = "flex"
+ document.querySelector('form input').oninvalid = function(evt) {  
+    // essa linha cancela o comportamento padrão do navegador
+    evt.preventDefault();
     // faz a validação novamente
     if (!this.validity.valid) {
-        // se estiver inválido, coloca a mensagem
-        this.setCustomValidity("Fill this field");
-        
+        //aqui eu mostro o alert
+        alert("O campo nome é obrigatório!");
     }
- };
+};
  ```
  Agora e so você usar sua criatividade
 ### Autor
