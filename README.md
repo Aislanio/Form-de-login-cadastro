@@ -45,6 +45,8 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 };
  ```
  Agora e so você usar sua criatividade
+ links úteis : <a href="http://gabsferreira.com/alterando-a-validacao-padrao-do-html5/">alterando-a-validacao-padrao-do-html5</a>   
+ <a href="https://www.devmedia.com.br/html5-validator-validando-formularios-com-html5/28785">html5-validator-validando-formularios-com-html5</a>
 ### Autor
 ---
 
