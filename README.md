@@ -20,7 +20,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] estilizar o html com css
 - [x] Mudar a mensagem de erro do formulario com JavaScript 
 - [x] Fazer o formulario de login
-- [ ] Fazer o forumulario de Cadastro
+- [x] Fazer o forumulario de Cadastro
 - [ ] Fazer o Back end do login e cadastro 
 
 
